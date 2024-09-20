@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ronney221
 - 👀 I’m interested in SDE1/New Grad roles 
 - 📫 How to reach me - ronney@cs.washington.edu
-- 🌐 Check out my website - [ronney.eth.link](ronney.eth.link)
+- 🌐 Check out my website - [ronney.eth.link](https://ronney.eth.link/)
 
 <!---
 Ronney221/Ronney221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
