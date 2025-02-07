@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ronney221
-- 👀 I’m interested in SDE1/New Grad roles 
+- 👀 I’m open to Software Engineering Opportunities 
 - 📫 How to reach me - ronney@cs.washington.edu
 - 🌐 Check out my [website](https://ronney221.github.io/portfolio)
 
