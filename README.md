@@ -24,7 +24,8 @@
 
 - **[hoopinsights](https://hoopinsights.vercel.app)**  
   Basketball stats fans can’t put down. Shipped it, grew it, and it’s live with a growing crowd.  
-  ![image](https://github.com/user-attachments/assets/f50bf18e-7d88-41a3-96db-ac24529170b8)
+  ![image](https://github.com/user-attachments/assets/e91c39fb-045c-4d65-a861-226de68d1d6f)
+
 
 - **[shoe-resizer-prod](https://shoe-resizer-prod.vercel.app)**  
   Computer vision resizing shoe pics for [Ablaj](https://ablaj.com/) in Bellevue Square. Precision meets style.  
