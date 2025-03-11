@@ -32,6 +32,7 @@
 - **[shoe-resizer-prod](https://shoe-resizer-prod.vercel.app)**  
   Computer vision resizing shoe thumbnails for [Ablaj](https://ablaj.com/) in Bellevue Square. Precision meets style.  
   ![image](https://github.com/user-attachments/assets/ee54a6b2-bfe1-4b38-9e08-87a5baa8528f)
+  ![image](https://github.com/user-attachments/assets/04db9fc0-2fa2-42f3-ba24-fb467bacb569)
 
   
 - **[bankrollBuddy](https://bankroll-buddy.vercel.app)**  
