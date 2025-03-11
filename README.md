@@ -18,17 +18,19 @@
 
 ## What I’ve Shipped  
 - **[pokerNOWAI](https://www.pokernowai.com)**  
-  A live poker platform keeping players in the game. Built it end-to-end—real users, real stakes.  
-  ![image](https://github.com/user-attachments/assets/46520b3d-4e3a-47b0-850e-b036e17d8dbd)
+  A live poker analytic platform created to help users gain an edge. Built it end-to-end—real users.  
+  ![image](https://github.com/user-attachments/assets/b2ca4913-d9c0-41bc-9a7b-9823702414e9)
 
 
-- **[hoopinsights](https://hoopinsights.vercel.app)**  
-  Basketball stats fans can’t put down. Shipped it, grew it, and it’s live with a growing crowd.  
-  ![image](https://github.com/user-attachments/assets/e91c39fb-045c-4d65-a861-226de68d1d6f)
+- **[Shotify.org](https://shotify.org)**  
+  Basketball stats tracker for your rec league games. Shipped it, grew it, and it’s live with a growing crowd.  
+  ![image](https://github.com/user-attachments/assets/c48b966a-5975-4071-bb91-d7476cfc7d96)
+  ![image](https://github.com/user-attachments/assets/c4a6d093-2920-4650-a331-6fff3ebcaede)
+
 
 
 - **[shoe-resizer-prod](https://shoe-resizer-prod.vercel.app)**  
-  Computer vision resizing shoe pics for [Ablaj](https://ablaj.com/) in Bellevue Square. Precision meets style.  
+  Computer vision resizing shoe thumbnails for [Ablaj](https://ablaj.com/) in Bellevue Square. Precision meets style.  
   ![image](https://github.com/user-attachments/assets/ee54a6b2-bfe1-4b38-9e08-87a5baa8528f)
 
   
