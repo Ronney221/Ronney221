@@ -15,7 +15,7 @@
 
 ## Find Me
 - 📫 [ronney@cs.washington.edu](mailto:ronney@cs.washington.edu)
-- 🌐 [Portfolio](https://ronney221.github.io/portfolio) | [Resume](https://docs.google.com/document/d/1LrOxb1h5nHf0gbXTiCUulH64IVjJRTscKFopmrgyouE/edit?tab=t.0) | [LinkedIn](https://www.linkedin.com/in/ronneydo/)
+- 🌐 [Portfolio](https://ronneydo.com) | [Resume](https://docs.google.com/document/d/1LrOxb1h5nHf0gbXTiCUulH64IVjJRTscKFopmrgyouE/edit?tab=t.0) | [LinkedIn](https://www.linkedin.com/in/ronneydo/)
 - 📸 [TikTok](https://www.tiktok.com/@ronneydophotography) | [Instagram](https://www.instagram.com/ronneydo/)
 
 ---
